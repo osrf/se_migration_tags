@@ -1,4 +1,4 @@
-gazebo,gazebo-no-version-declared
+gazebo,gazebo
 sdf,sdformat
 plugin,gazebo-plugin
 gazebo-9,gazebo-9
@@ -8,7 +8,7 @@ gazebo-11,gazebo-11
 gazebo-7,gazebo-7
 drcsim,drcsim
 model,gazebo-model
-gazebo_ros,ros-no-version-declared
+gazebo_ros,ros
 camera,gazebo-camera
 ignition,gazebo-ignition
 sensor,gazebo-sensor
@@ -23,12 +23,12 @@ installation,installation
 #gazebo-1.9.0,gazebo-1.9
 contact,contact
 gazebo-all-versions,gazebo-all-versions
-#gazebo_ros_pkgs,ros-no-version-declared
+#gazebo_ros_pkgs,ros
 gui,gazebo-gui
 mesh,mesh
 gazebo_models,gazebo-model
 fuerte,ros-fuerte
-gazebo_ros_pkgs,ros-no-version-declared
+gazebo_ros_pkgs,ros
 collada,collada
 friction,friction
 #gazebo,gazebo
@@ -38,11 +38,11 @@ gazebo-1.5,gazebo-1.5
 python,python
 gazebo-1.4,gazebo-1.4
 ros-indigo,ros-indigo
-ros2,ros2-no-version-declared
+ros2,ros2
 gazebo9,gazebo-9
 ros_fuerte,ros-fuerte
 xacro,xacro
-gazebo-ros-control,ros-no-version-declared
+gazebo-ros-control,ros
 ignition-gazebo,gazebo-ignition
 ogre,ogre
 gazebo_worlds,gazebo-world
@@ -57,10 +57,10 @@ bullet,bullet
 gazebo4,gazebo-4
 ign-fortress,ignition-fortress
 indigo,ros-indigo
-windows,windows-no-version-declared
+windows,windows
 kinetic,ros-kinetic
 model.sdf,sdformat
-#gazebo_ros,ros-no-version-declared
+#gazebo_ros,ros
 rviz,rviz
 gazebo-10,gazebo-10
 atlassiminterface,
@@ -71,7 +71,7 @@ ignition-citadel,gazebo-citadel
 sdf-1.4,sdformat
 melodic,ros-melodic
 blender,blender
-gazebo_ros_camera,ros-no-version-declared
+gazebo_ros_camera,ros
 ign-edifice,gazebo-edifice
 tf,transforms
 gazebo-1.8,gazebo-1.8
@@ -84,7 +84,7 @@ skid-steer,skid-steer
 ubuntu12.04,ubuntu-12.04
 #gazebo-1.9.1,gazebo-1.9
 ros-groovy,ros-groovy
-ubuntu,ubuntu-no-version-declared
+ubuntu,ubuntu
 #gazebo-2.2.3,gazebo-2.2
 #gazebo-2.2.2,gazebo-2.2
 gazebo-2.2.3,gazebo-2.2
@@ -124,7 +124,7 @@ kinematics,kinematics
 gazebo2,gazebo-2
 gazebo2.0.0,gazebo-2.0
 gazebo-6.5.1,gazebo-6.5
-homebrew,homebrew-no-version-declared
+homebrew,homebrew
 ignition-fortress,ignition-fortress
 #sdf,sdformat
 spawn_urdf_model,urdf
@@ -141,13 +141,13 @@ arm_kinematics,kinematics
 gazebo-2.2,gazebo-2.2
 gazebo_1.2,gazebo-1.2
 transforms,transforms
-ros_gazebo,ros-no-version-declared
+ros_gazebo,ros
 urdf.xacro,urdf xacro
 gazebo_1.2.5,gazebo-1.2
 kinetic,ros-kinetic
-ROS,ros-no-version-declared
+ROS,ros
 rviz,rviz
-gazebo,gazebo-no-version-declared
+gazebo,gazebo
 Kinect,kinect
 catkin,catkin
 indigo,ros-indigo
@@ -173,9 +173,9 @@ opencv,opencv
 roscpp,roscpp
 subscriber,
 openni,
-ros2,ros2-no-version-declared
+ros2,ros2
 install,ros-installation
-Ubuntu,ubuntu-no-version-declared
+Ubuntu,ubuntu
 cmake,cmake
 odometry,odometry
 robot_localization,robot_localization
@@ -196,7 +196,7 @@ SLAM,slam
 package,
 android,android
 launch,launch
-ROS1,ros-no-version-declared
+ROS1,ros
 installation,ros-installation
 pointcloud,
 map,
@@ -362,7 +362,7 @@ joystick,
 hardware,
 logging,
 ROS_PACKAGE_PATH,
-simulator_gazebo,gazebo-no-version-declared
+simulator_gazebo,gazebo
 2d_laser_scanner,
 answers.ros.org,answers.ros.org
 driver,
@@ -409,7 +409,7 @@ remote,
 callbacks,
 compile,
 base_link,
-1.gazebo,gazebo-no-version-declared
+1.gazebo,gazebo
 message_filters,
 rqt_plot,rqt
 ssh,
@@ -503,7 +503,7 @@ gtest,
 Clearpath,
 TCP,
 rgbdslam_freiburg,
-1.ros,ros-no-version-declared
+1.ros,ros
 inverse_kinematics,
 sick,
 sbpl,
