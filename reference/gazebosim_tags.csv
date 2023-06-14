@@ -1,4 +1,4 @@
-gazebo,gazebo-no-version-declared
+gazebo,gazebo
 sdf,sdformat
 plugin,gazebo-plugin
 gazebo-9,gazebo-9
@@ -57,7 +57,7 @@ bullet,bullet
 gazebo4,gazebo-4
 ign-fortress,ignition-fortress
 indigo,ros-indigo
-windows,windows-no-version-declared
+windows,windows
 kinetic,ros-kinetic
 model.sdf,sdformat
 #gazebo_ros,ros
@@ -84,7 +84,7 @@ skid-steer,skid-steer
 ubuntu12.04,ubuntu-12.04
 #gazebo-1.9.1,gazebo-1.9
 ros-groovy,ros-groovy
-ubuntu,ubuntu-no-version-declared
+ubuntu,ubuntu
 #gazebo-2.2.3,gazebo-2.2
 #gazebo-2.2.2,gazebo-2.2
 gazebo-2.2.3,gazebo-2.2
@@ -124,14 +124,14 @@ kinematics,kinematics
 gazebo2,gazebo-2
 gazebo2.0.0,gazebo-2.0
 gazebo-6.5.1,gazebo-6.5
-homebrew,homebrew-no-version-declared
+homebrew,homebrew
 ignition-fortress,ignition-fortress
 #sdf,sdformat
 spawn_urdf_model,urdf
 diff-drive,differential-drive
 stereo,stereo-vision
 localization,localization
-tf2,transforms
+tf2,transforms,tf2
 ubuntu-11.10,ubuntu-12.04
 #ubuntu14.04,ubuntu-14.04
 gazebo5,gazebo-5
@@ -141,6 +141,6 @@ arm_kinematics,kinematics
 gazebo-2.2,gazebo-2.2
 gazebo_1.2,gazebo-1.2
 transforms,transforms
-ros_gazebo,ros
+ros_gazebo,ros,ros_gazebo
 urdf.xacro,urdf xacro
 gazebo_1.2.5,gazebo-1.2
