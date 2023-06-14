@@ -8,11 +8,13 @@ for l in lines:
     if len(elements) == 1:
         orig = elements[0]
         lower = orig.lower()
-        out.append(f'{orig},{lower}')
+        out.append(f'{orig},{lower},ros')
     else:
-        out.append(l.strip())
+        if not 'ros' in elements[1:]:
+            elements.append('ros')
+        out.append(','.join(elements))
 
-print(out)
+# print(out)
 out.sort()
 with open('result.csv','w') as outh:
     for l in out:
